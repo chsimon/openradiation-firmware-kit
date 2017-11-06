@@ -12,3 +12,5 @@ Serials numbers are the following :
 * KIT jan 2017 : 000000 ... 000100
 * KIT aug 2017 : 000101 ... 000125
 * KIT oct 2017 : 000126 ... 000195
+
+* SMD nov 2017 : 000001 ... 000010 
